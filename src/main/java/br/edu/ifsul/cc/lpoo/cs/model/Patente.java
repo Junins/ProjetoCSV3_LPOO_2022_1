@@ -1,4 +1,3 @@
-
 package br.edu.ifsul.cc.lpoo.cs.model;
 
 /**
@@ -7,7 +6,6 @@ package br.edu.ifsul.cc.lpoo.cs.model;
  * @data : 11/03/2022
  */
 public class Patente {
-
     private Integer id;
     private String nome;
     private String cor;
